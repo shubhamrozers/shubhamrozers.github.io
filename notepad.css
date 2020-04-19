@@ -1,0 +1,52 @@
+/*********************************tag selection**************************/
+
+body {
+    background-color: lemonchiffon;
+
+}
+
+h2 {
+
+    color: cadetblue;
+}
+
+div {
+    background-color: aquamarine;
+}
+
+table {
+    align-self: auto;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/************align-items: ******************class selection**************************/
+
+.circular {
+    border-radius: 100%;
+    position: inherit;
+}
+
+.my {
+    color: darkblue;
+
+}
+
+.first {
+    color: darkmagenta;
+}
+
+.blog {
+    color: darkred;
+}
+
+.page {
+    color: seagreen;
+}
+
+/*********************************id selection**************************/
+#blog {
+    color: firebrick;
+}
