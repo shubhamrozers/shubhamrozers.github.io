@@ -130,14 +130,18 @@ hr {
 
   .last-container{
       margin-top: 90px;
-    background-color: grey;
+    background-color:eeeeee;
     padding:20px;
      
      
  }
  .copywrite{
-     color: ivory;
+     color:black;
  }
  .footer-link{
   padding: 10px;
+ }
+ .social_link{
+     padding: 0.5%;
+     
  }
